@@ -1,100 +1,128 @@
-<!-- ================= PROFILE HEADER ================= -->
+<!-- ======================= PROFILE HEADER ======================= -->
 
-<h1 align="center">Hey 👋, I'm Suchi Goel</h1>
+<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+       alt="Waving hand"
+       height="45"
+       width="45" />,
+  I'm Suchi Goel
+</h1>
 
 <h3 align="center">
-  3rd Year CSE Student | Software Developer | AI/ML Enthusiast
+  🎓 3rd Year Computer Science Engineering Student
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Software+Developer+%7C+Problem+Solver;AI%2FML+%7C+Data+Analytics+Enthusiast;Building+Projects+that+Solve+Real+Problems;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
-</p>
+<h4 align="center">
+  💻 Software Developer &nbsp; | &nbsp; 🤖 AI/ML Enthusiast &nbsp; | &nbsp; 🧩 Problem Solver
+</h4>
 
 <p align="center">
-  <a href="https://github.com/suchig9434">
-    <img src="https://img.shields.io/badge/GitHub-suchig9434-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suchi-goel-06a9903b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Suchi%20Goel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:goelsuchi32@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img
+    alt="Coding Animation"
+    width="800"
+    height="300"
+    src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=Building+Real-World+Projects;Learning+Data+Structures+%26+Algorithms;Exploring+AI%2FML+%26+Generative+AI;Turning+Ideas+Into+Working+Products;Preparing+for+Software+Engineering+Roles"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-- 🎓 **3rd Year Computer Science Engineering Student**
-- 💻 Passionate about **Software Development & Problem Solving**
-- 🤖 Exploring **AI, Machine Learning & Generative AI**
-- 📊 Interested in **Data Analytics & Data-driven applications**
-- ☕ Building my programming foundation with **Java, C++ & Python**
+- 🎓 **3rd Year B.Tech CSE Student**
+- 💻 Interested in **Software Development & Problem Solving**
+- ☕ Building strong fundamentals in **Java, C++ & Python**
 - 🌐 Developing **Full Stack Web Applications**
-- 🧩 Actively practicing **Data Structures & Algorithms**
-- 🚀 Love turning ideas into **real-world projects**
+- 🤖 Exploring **AI, Machine Learning & Generative AI**
+- 📊 Interested in **Data Analytics & Data-driven solutions**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🚀 Love building projects that solve **real-world problems**
 - 💼 Currently preparing for **internships & software engineering placements**
 
-> ✨ I believe the best way to learn technology is to **build something meaningful with it.**
+> ✨ **Learn → Build → Debug → Improve → Repeat**
 
 ---
 
-## ⚒️ Tech Stack & Tools
+# ⚒️ What I Work With
 
-### 💻 Programming
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,ts" />
-</p>
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=f7768e)
+![C++](https://img.shields.io/badge/C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7dcfff)
+![C](https://img.shields.io/badge/C-1a1b27?style=for-the-badge&logo=c&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
 
 ### 🌐 Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,react,nextjs,tailwind" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![Node.js](https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
+![Express.js](https://img.shields.io/badge/Express.js-1a1b27?style=for-the-badge&logo=express&logoColor=c0caf5)
+![REST API](https://img.shields.io/badge/REST%20API-1a1b27?style=for-the-badge&logo=fastapi&logoColor=7dcfff)
 
-### 🤖 AI / Machine Learning / Data
+### 🤖 AI / ML / Data
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+![Python](https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7dcfff)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7aa2f7)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7dcfff)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=e0af68)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=f7768e)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+### 🗄️ Database
 
-### 🗄️ Database & Developer Tools
+![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=9ece6a)
+![Firebase](https://img.shields.io/badge/Firebase-1a1b27?style=for-the-badge&logo=firebase&logoColor=e0af68)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,postman,vscode,linux" />
-</p>
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5)
+![Postman](https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=ff9e64)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
+
+</div>
 
 ---
 
-# 🚀 Highlight Projects
+# 🚀 Featured Projects
 
-### 🏫 Shiksha Setu — Academic Submission Platform
+### 🏫 Shiksha Setu
 
-> A platform designed to simplify assignment and CT submissions between students and faculty.
+> **A digital bridge between faculty and students.**
+
+A platform that simplifies assignment and CT submissions by allowing faculty to upload tasks and students to submit them online.
 
 **Key Features**
+- 📤 Faculty assignment upload
+- 📝 Online student submission
+- 📧 Email notification to faculty
+- ✅ Submission confirmation
+- 📚 Centralized academic workflow
 
-- 📤 Faculty can upload assignments
-- 📝 Students can submit work online
-- 📧 Automatic email notification to faculty
-- ✅ Submission confirmation for students
-- 📚 Centralized academic submission workflow
-
-**Focus:** `Full Stack Development` `Database` `Automation`
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Database`
 
 ---
 
 ### 🤖 AI Travel Planner
 
-> An AI-powered application that helps users create personalized travel plans based on their preferences.
+> An AI-powered travel planning application designed to generate personalized travel plans.
 
 **Focus:** `AI` `Generative AI` `APIs` `Web Development`
 
@@ -102,7 +130,7 @@
 
 ### 🧠 SahayScore
 
-> An intelligent credit-scoring concept designed to analyze financial information and provide data-driven insights.
+> An intelligent credit-scoring concept designed to provide data-driven financial insights.
 
 **Focus:** `AI/ML` `Data Analysis` `Intelligent Systems`
 
@@ -110,15 +138,14 @@
 
 ### 🎤 PrepWise AI
 
-> An AI-powered interview coach designed to help students improve their interview performance.
+> An AI-powered interview coach that helps students improve their interview performance.
 
 **Analyzes**
-
 - ⏱️ Response time
 - 🗣️ Filler words
 - 🎯 Answer quality
 - 📈 Interview performance
-- 💡 Personalized improvement suggestions
+- 💡 Improvement areas
 
 **Focus:** `AI` `Speech Analysis` `Interview Intelligence`
 
@@ -128,13 +155,13 @@
 
 > A competitive coding platform where developers can challenge each other in real-time coding battles.
 
-**Focus:** `JavaScript` `Node.js` `Real-Time Systems` `Web Development`
+**Focus:** `JavaScript` `Node.js` `Real-Time Systems`
 
 ---
 
 ### 🌧️ Rainfall Prediction
 
-> A machine learning project that predicts rainfall using weather-related features and evaluates model performance.
+> A machine learning project that predicts rainfall using weather-related features.
 
 **Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
 
@@ -148,32 +175,31 @@ Worked on practical AI/ML applications and explored intelligent solutions throug
 
 ### 📊 Data Analyst Intern — AICTE Internship
 
-Worked with data preprocessing, analysis, visualization and extracting meaningful insights from datasets.
+Worked on data preprocessing, analysis, visualization and extracting meaningful insights from datasets.
 
 ### 🌍 Project Contributor — GSSoC
 
-Contributed to open-source projects while collaborating with developers and learning real-world Git & GitHub workflows.
+Contributed to open-source projects while collaborating with developers and learning real-world Git/GitHub workflows.
 
 ---
 
 # 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/APJ%20Abdul%20Kalam%20GK-College%20Rank%20%231-gold?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-<img src="https://img.shields.io/badge/NCC-Grade%20A-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Running%20Competition-Silver%20Medal-silver?style=for-the-badge"/>
+![Rank 1](https://img.shields.io/badge/APJ%20Abdul%20Kalam%20GK%20Exam-College%20Rank%20%231-1a1b27?style=for-the-badge&logoColor=FFD700)
 
-</p>
+![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 
-<p align="center">
+![NCC](https://img.shields.io/badge/NCC-Grade%20A-1a1b27?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Google%20Cloud-AI%20Impact%20Buildathon%202026-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI%20Academy-Certified-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathons-3%2B-orange?style=for-the-badge"/>
+![Silver Medal](https://img.shields.io/badge/Running%20Competition-Silver%20Medal-1a1b27?style=for-the-badge)
 
-</p>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-AI%20Impact%20Buildathon%202026-1a1b27?style=for-the-badge&logo=googlecloud&logoColor=7aa2f7)
+
+![GenAI](https://img.shields.io/badge/GenAI%20Academy-Certified-1a1b27?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -182,16 +208,16 @@ Contributed to open-source projects while collaborating with developers and lear
 <p align="center">
 
 <a href="https://leetcode.com/suchig98_123434/">
-  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-100%2B%20Problems-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Programming%20%26%20DSA-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-DSA%20%26%20Programming-1a1b27?style=for-the-badge&logo=hackerrank&logoColor=9ece6a"/>
 </a>
 
 </p>
 
-> 🧠 **One problem at a time. One concept at a time. One step closer to becoming a better engineer.**
+> 🧠 **Problem solving is not about knowing every answer — it's about learning how to find one.**
 
 ---
 
@@ -199,18 +225,38 @@ Contributed to open-source projects while collaborating with developers and lear
 
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=suchig9434&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=suchig9434&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suchig9434&theme=tokyonight"
+  alt="GitHub Contribution Graph"
+  width="100%"
+/>
 
 </p>
 
+<br/>
+
 <p align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchig9434&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app/?user=suchig9434&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=suchig9434&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="180"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchig9434&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+/>
 
 </p>
 
@@ -219,7 +265,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchig9434&l
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suchig9434&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=suchig9434&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+  alt="GitHub Trophies"
+/>
+
 </p>
 
 ---
@@ -227,16 +278,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchig9434&l
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suchig9434&theme=tokyo-night&hide_border=true"/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=suchig9434&theme=tokyo-night&hide_border=true"
+  alt="Contribution Graph"
+/>
+
 </p>
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten!
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/suchig9434/suchig9434/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img
+  src="https://raw.githubusercontent.com/suchig9434/suchig9434/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </p>
 
@@ -244,18 +303,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchig9434&l
 
 # 🎯 2026 Goals
 
+<div align="center">
+
+| Goal | Progress |
+|------|----------|
+| 🧩 Data Structures & Algorithms | 🔄 Learning |
+| ☕ Java & OOP | 🔄 Improving |
+| 🌐 Full Stack Development | 🔥 Building |
+| 🤖 AI / ML / GenAI | 🔥 Exploring |
+| 🗄️ Backend & Databases | 🔄 Learning |
+| 🚀 Real-World Projects | 🔥 Building |
+| 💼 Software Internship | 🎯 Target |
+| 🎓 Placement Preparation | 🎯 Focus |
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
 ```text
-╔══════════════════════════════════════════════╗
-║                 MY 2026 GOALS                ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🧩 Master DSA & Problem Solving             ║
-║  ☕ Strengthen Java & OOP                    ║
-║  🌐 Build Production-Ready Web Apps         ║
-║  🤖 Explore AI / ML / GenAI                 ║
-║  🗄️ Improve DBMS & Backend Skills           ║
-║  🚀 Build More Real-World Projects          ║
-║  💼 Secure a Strong Software Internship     ║
-║  🎯 Prepare for SDE Placements              ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+DSA                 ████████████░░░░░░
+Java & OOP          ██████████████░░░░
+Web Development     ███████████████░░░
+AI / ML             ███████████░░░░░░░
+Backend Development ██████████░░░░░░░░
+System Design       ██████░░░░░░░░░░░░
