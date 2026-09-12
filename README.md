@@ -117,72 +117,6 @@ A platform that simplifies assignment and CT submissions by allowing faculty to 
 - 📚 Centralized academic workflow
 
 **Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Database`
-
----
-
-### 🤖 AI Travel Planner
-
-> An AI-powered travel planning application designed to generate personalized travel plans.
-
-**Focus:** `AI` `Generative AI` `APIs` `Web Development`
-
----
-
-### 🧠 SahayScore
-
-> An intelligent credit-scoring concept designed to provide data-driven financial insights.
-
-**Focus:** `AI/ML` `Data Analysis` `Intelligent Systems`
-
----
-
-### 🎤 PrepWise AI
-
-> An AI-powered interview coach that helps students improve their interview performance.
-
-**Analyzes**
-- ⏱️ Response time
-- 🗣️ Filler words
-- 🎯 Answer quality
-- 📈 Interview performance
-- 💡 Improvement areas
-
-**Focus:** `AI` `Speech Analysis` `Interview Intelligence`
-
----
-
-### ⚔️ 1v1 Code Battle
-
-> A competitive coding platform where developers can challenge each other in real-time coding battles.
-
-**Focus:** `JavaScript` `Node.js` `Real-Time Systems`
-
----
-
-### 🌧️ Rainfall Prediction
-
-> A machine learning project that predicts rainfall using weather-related features.
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Matplotlib`
-
----
-
-# 💼 Experience
-
-### 🤖 AI/ML Intern — Coding Blocks of Technology
-
-Worked on practical AI/ML applications and explored intelligent solutions through real-world projects.
-
-### 📊 Data Analyst Intern — AICTE Internship
-
-Worked on data preprocessing, analysis, visualization and extracting meaningful insights from datasets.
-
-### 🌍 Project Contributor — GSSoC
-
-Contributed to open-source projects while collaborating with developers and learning real-world Git/GitHub workflows.
-
----
-
 # 🏆 Achievements
 
 <div align="center">
@@ -262,27 +196,7 @@ Contributed to open-source projects while collaborating with developers and lear
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=suchig9434&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-  alt="GitHub Trophies"
-/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=suchig9434&theme=tokyo-night&hide_border=true"
-  alt="Contribution Graph"
-/>
 
 </p>
 
