@@ -102,23 +102,7 @@
 ---
 
 **Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Database`
-# 🏆 Achievements
 
-<div align="center">
-
-![Rank 1](https://img.shields.io/badge/APJ%20Abdul%20Kalam%20GK%20Exam-College%20Rank%20%231-1a1b27?style=for-the-badge&logoColor=FFD700)
-
-![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems-1a1b27?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-
-![NCC](https://img.shields.io/badge/NCC-Grade%20A-1a1b27?style=for-the-badge)
-
-![Silver Medal](https://img.shields.io/badge/Running%20Competition-Silver%20Medal-1a1b27?style=for-the-badge)
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-AI%20Impact%20Buildathon%202026-1a1b27?style=for-the-badge&logo=googlecloud&logoColor=7aa2f7)
-
-![GenAI](https://img.shields.io/badge/GenAI%20Academy-Certified-1a1b27?style=for-the-badge)
-
-</div>
 
 ---
 
