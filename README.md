@@ -101,21 +101,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏫 Shiksha Setu
-
-> **A digital bridge between faculty and students.**
-
-A platform that simplifies assignment and CT submissions by allowing faculty to upload tasks and students to submit them online.
-
-**Key Features**
-- 📤 Faculty assignment upload
-- 📝 Online student submission
-- 📧 Email notification to faculty
-- ✅ Submission confirmation
-- 📚 Centralized academic workflow
-
 **Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Database`
 # 🏆 Achievements
 
